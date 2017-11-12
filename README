@@ -1,0 +1,7 @@
+So there was this guy on the plane solving sudokus on his phone and I was bored
+
+Probably horribly inefficient but it works
+
+ruby sudoku.rb PUZZLE_FILE
+
+PUZZLE_FILE is a file looking like one of the puzzle examples in the repo
