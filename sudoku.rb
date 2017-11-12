@@ -118,7 +118,6 @@ class TemplateLoader
 
 end
 
-$start = Time.now
 file = ARGV[0]
 board = Board.new
 starting_solution = TemplateLoader.load(file, board)
